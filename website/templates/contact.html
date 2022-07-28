@@ -1,2 +1,28 @@
 <!-- your html code here -->
-<p>Hello, I'm contact.html</p>
+<div class="container">
+    <h2>Contacto</h3>
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nobis similique aspernatur ipsum voluptatibus. Aspernatur, ducimus nostrum. Commodi, odio recusandae voluptas blanditiis aliquam porro natus pariatur, quod praesentium magnam maxime sed?</p>
+    <form class="container contact__formulario bg-light">
+        <div class="row g-3 align-items-center mb-3">
+            <div class="col-3">
+              <label for="yourEmail" class="col-form-label fw-bold float-end">Your Email</label>
+            </div>
+            <div class="col-9">
+              <input type="mail" id="yourEmail" class="form-control" aria-describedby="passwordHelpInline" placeholder="Your email">
+            </div>
+        </div>
+        <div class="row g-3 align-items-center mb-3">
+            <div class="col-3">
+              <label for="message" class="col-form-label fw-bold float-end">Your Message</label>
+            </div>
+            <div class="col-9">
+                <textarea class="form-control" id="message" rows="3" placeholder="Please enter your message here..."></textarea>
+            </div>
+        </div>
+        <div class="row d-flex justify-content-end">
+            <div class="col-auto">
+                <button type="button" class="btn btn-primary mb-3 p-3">Submit</button>
+            </div>
+        </div>
+    </form>
+</div>

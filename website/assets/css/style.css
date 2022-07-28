@@ -1,6 +1,10 @@
 body{
     background: #BDBDBD;
 }
+.contact__formulario{
+    width: 70%;
+    margin-top: 2rem;
+}
 
 .navbar__container_fluid {
     background-color: black;
@@ -23,4 +27,5 @@ body{
     text-align: center;
     background-color: white;
 }
+
 
