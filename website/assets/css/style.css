@@ -1,10 +1,12 @@
 body{
     background: #BDBDBD;
 }
+
 .navbar__container_fluid {
     background-color: black;
 }
 .tagline__container {
+
     height: 800px;
     background-image: url("https://images.pexels.com/photos/462331/pexels-photo-462331.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
     background-size: cover;
@@ -21,3 +23,4 @@ body{
     text-align: center;
     background-color: white;
 }
+
