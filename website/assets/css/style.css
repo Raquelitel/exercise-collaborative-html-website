@@ -3,6 +3,7 @@ body{
 }
 .container-fluid__navbar {
     background-color: black;
+
 }
 .container__tagline {
     height: 800px;
@@ -12,8 +13,7 @@ body{
     background-position: center center;
     position: relative;
     margin-left: -1%;
-    
-
+  
 }
 .textcontainer__tagline {
     position: relative;
@@ -24,3 +24,4 @@ body{
     background-color: white;
     
 }
+
