@@ -1,6 +1,12 @@
-body{
+body {
     background: #BDBDBD;
 }
+
+.img_circle {
+    width: 200px;
+    height: 200px;
+}
+
 .contact__formulario{
     width: 70%;
     margin-top: 2rem;
@@ -27,5 +33,6 @@ body{
     text-align: center;
     background-color: white;
 }
+
 
 
