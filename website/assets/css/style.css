@@ -1,3 +1,8 @@
-body{
+body {
     background: #BDBDBD;
+}
+
+.img_circle {
+    width: 200px;
+    height: 200px;
 }
